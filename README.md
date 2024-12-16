@@ -5,6 +5,8 @@ El archivo P3.s es el código en lenguaje ensamblador en donde se encuentra la l
 El archivo p33FJ32MC202.gld es el archvo linker. 
 El archivo p33FJ32MC202.inc es el archvo header.
 
+Dentro de la herramienta MPLABX se puede observar el funcionamiento de las matrices en la memoria, mediante la herramienta de file registers a partir de la posición 0x0800.
+
 ## Organización de las Matrices en Memoria
 Las matrices se almacenan en memoria en posiciones específicas:
 
